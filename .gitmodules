@@ -1,0 +1,12 @@
+[submodule "submodules/com.nativebit.coregameplay"]
+	path = submodules/com.nativebit.coregameplay
+	url = git@github.com:hiagodesena/com.nativebit.coregameplay.git
+[submodule "submodules/com.nativebit.utility"]
+	path = submodules/com.nativebit.utility
+	url = git@github.com:hiagodesena/com.nativebit.utility.git
+[submodule "submodules/com.nativebit.communication"]
+	path = submodules/com.nativebit.communication
+	url = git@github.com:hiagodesena/com.nativebit.communication.git
+[submodule "submodules/com.nativebit.lastshot"]
+	path = submodules/com.nativebit.lastshot
+	url = git@github.com:hiagodesena/com.nativebit.lastshot.git
