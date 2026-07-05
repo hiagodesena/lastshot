@@ -10,7 +10,3 @@
 [submodule "submodules/com.nativebit.lastshot"]
 	path = submodules/com.nativebit.lastshot
 	url = git@github.com:hiagodesena/com.nativebit.lastshot.git
-
-[submodule "submodules/submodules/com.nativebit.lastshot"]
-	path = submodules/submodules/com.nativebit.lastshot
-	url = git@github.com:hiagodesena/com.nativebit.lastshot.git
