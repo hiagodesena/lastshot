@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.nativebit.communication": "file:../../submodules/com.nativebit.communication",
+    "com.nativebit.coregameplay": "file:../../submodules/com.nativebit.coregameplay",
+    "com.nativebit.lastshot": "file:../../submodules/com.nativebit.lastshot",
+    "com.nativebit.utility": "file:../../submodules/com.nativebit.utility",
     "com.unity.addressables": "2.6.0",
     "com.unity.ai.navigation": "2.0.9",
     "com.unity.cinemachine": "3.1.7",

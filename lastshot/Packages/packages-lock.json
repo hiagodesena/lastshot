@@ -1,5 +1,33 @@
 {
   "dependencies": {
+    "com.nativebit.communication": {
+      "version": "file:../../submodules/com.nativebit.communication",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.nativebit.utility": "0.0.0"
+      }
+    },
+    "com.nativebit.coregameplay": {
+      "version": "file:../../submodules/com.nativebit.coregameplay",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.nativebit.utility": "0.0.0"
+      }
+    },
+    "com.nativebit.lastshot": {
+      "version": "file:../../submodules/com.nativebit.lastshot",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.nativebit.utility": {
+      "version": "file:../../submodules/com.nativebit.utility",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.addressables": {
       "version": "2.6.0",
       "depth": 0,
